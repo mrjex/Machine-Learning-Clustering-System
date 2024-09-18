@@ -23,6 +23,55 @@ With the techniques listed above and a dataset of 2240 rows and 29 columns, I fa
 ## System
 
 
+### Architecture
+
+![architecture](readme-material/architecture.PNG)
+
+
+
+### Exploratory Data Analysis
+
+Text
+
+![education](readme-material/1-education.PNG)
+
+![education-spendings](readme-material/2-education-levels-income.PNG)
+
+![martial-status-spending](readme-material/3-marital-status-spending.PNG)
+
+
+### Dimensionality Reduction
+
+![dimensionality-reduction](readme-material/4-dimensionality-reduction.PNG)
+
+![dimensionality-reduction-clusters](readme-material/5-dimenstionality-reduction-clusters.PNG)
+
+![elbow-method](readme-material/6-elbow-method.PNG)
+
+
+### Cluster Evaluation
+
+![silhouette-score](readme-material/7-silhouette-score.PNG)
+
+![silhouette-score-table](readme-material/8-silhouette-score.PNG)
+
+
+### Further Cluster Analysis of Configured Method
+
+
+![cluster-income-spendings](readme-material/9-cluster-income-spendings.PNG)
+
+![cluster-deals-purchased](readme-material/10-cluster-deals-purchased.PNG)
+
+![feature-comparisons](readme-material/11-feature-comparisons.PNG)
+
+![age-distribution](readme-material/12-age-distribution.PNG)
+
+
+### Conclusions
+
+
+![cluster-characteristics](readme-material/cluster-characteristics.PNG)
 
 
 
