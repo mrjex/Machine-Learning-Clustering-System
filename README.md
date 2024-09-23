@@ -77,17 +77,18 @@ Text
 
 ## My Related Experiences
 
-- [Relational Analysis And Visualization](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/2.%20Relational-Analysis-And-Visualization?ref_type=heads): *Machine Learning Prediciton Model with linear Regression*
+- [Relational Analysis And Visualization](https://github.com/mrjex/Relational-Analysis-and-Visualization): *Machine Learning Prediciton Model with linear Regression*
 
+- [Realtime Change Data Capture Streaming](https://github.com/mrjex/Realtime-Data-Capture-Streaming): *Manage real-time data in streaming pipeline and visualize in localhost*
 
-- [Realtime Change Data Capture Streaming](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/5.%20Realtime%20Change%20Data%20Capture%20Streaming?ref_type=heads): *Manage real-time data in streaming pipeline and visualize in localhost*
+- [Global City Streaming](https://github.com/mrjex/Global-City-Streaming): *Manage pipeline data and visualize in a vast multitude of distinct plots*
 
-- [Global City Streaming](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/6.%20City%20Streaming%20Project?ref_type=heads): *Manage pipeline data and visualize in a vast multitude of distinct plots*
+- [Tableau Visualization](https://github.com/mrjex/Tableau-Visualization): *Transform SQL data-models and visualize categorized data*
 
-- [Tableau Visualization](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/2.%20spare-time/9.%20Tableau-Visualization?ref_type=heads): *Transform SQL data-models and visualize categorized data*
+- [Artificial Intelligence Clusters](https://github.com/mrjex/Artificial-Intelligence-Clusters): *Machine Learning models using unsupervised learning to partition data into segments*
 
-- [Foundations of Artificial Intelligence](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-3/1.%20Exchange%20Studies%20Venice/1.%20Foundations%20of%20Artificial%20Intelligence?ref_type=heads): *Classification models*
+- [Neural Network Image Classification](https://github.com/mrjex/Neural-Network-Image-Classification): *A deep neural network fine-tuned by supervised learning for image classification*
 
-- [Foundations of Machine Learning](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-3/1.%20Exchange%20Studies%20Venice/2.%20Foundations%20of%20Machine%20Learning?ref_type=heads): *Machine learning models*
+- [US Political & Societal Data Visualization](https://github.com/mrjex/US-Political-and-Societal-Data-Visualization): *Data visualization using Python*
 
-- [Computer Programming & Data Management - 2](https://gitlab.com/jex-projects/mrjex/-/tree/main/projects/1.%20courses/year-3/1.%20Exchange%20Studies%20Venice/4.%20Computer%20Programming%20&%20Datamanagement%20-%202?ref_type=heads): *Data visualization*
+- [Artificial Intelligence Classifiers](https://github.com/mrjex/Artificial-Intelligence-Classifiers): *Machine Learning models using supervised learning*
