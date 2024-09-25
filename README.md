@@ -65,12 +65,15 @@ Our initial analysis revealed fascinating patterns in customer education levels 
 We employed PCA to reduce data complexity while preserving essential information:
 
 ![dimensionality-reduction](readme-material/4-dimensionality-reduction.PNG)
+
 *PCA transformation results*
 
 ![dimensionality-reduction-clusters](readme-material/5-dimenstionality-reduction-clusters.PNG)
+
 *Cluster visualization in reduced dimensions*
 
 ![elbow-method](readme-material/6-elbow-method.PNG)
+
 *Optimal cluster determination using the Elbow Method*
 
 ### Cluster Evaluation
@@ -78,9 +81,11 @@ We employed PCA to reduce data complexity while preserving essential information
 Rigorous evaluation of clustering performance using multiple metrics:
 
 ![silhouette-score](readme-material/7-silhouette-score.PNG)
+
 *Silhouette analysis of cluster quality*
 
 ![silhouette-score-table](readme-material/8-silhouette-score.PNG)
+
 *Comparative performance of clustering algorithms*
 
 ### Advanced Cluster Analysis
@@ -88,15 +93,19 @@ Rigorous evaluation of clustering performance using multiple metrics:
 Detailed analysis of the configured clustering method revealed distinct customer segments:
 
 ![cluster-income-spendings](readme-material/9-cluster-income-spendings.PNG)
+
 *Income vs. Spending patterns by cluster*
 
 ![cluster-deals-purchased](readme-material/10-cluster-deals-purchased.PNG)
+
 *Deal purchase behavior analysis*
 
 ![feature-comparisons](readme-material/11-feature-comparisons.PNG)
+
 *Multi-feature cluster comparison*
 
 ![age-distribution](readme-material/12-age-distribution.PNG)
+
 *Age distribution across clusters*
 
 ## 📈 Results and Conclusions
@@ -104,6 +113,7 @@ Detailed analysis of the configured clustering method revealed distinct customer
 Our analysis yielded actionable insights into customer segments:
 
 ![cluster-characteristics](readme-material/cluster-characteristics.PNG)
+
 *Key characteristics of identified customer segments*
 
 ## 📁 Project Structure
@@ -125,8 +135,8 @@ project/
 4. Explore the analysis or modify parameters as needed
 
 For detailed implementation insights, refer to:
-- 📘 [Code Documentation](/project/code.ipynb)
-- 📊 [Full Analysis Report](/project/docs/report.pdf)
+- 📘 [Code Documentation](code_part_1.ipynb)
+- 📊 [Full Analysis Report](/docs/report.pdf)
 
 ## 💼 Portfolio
 
