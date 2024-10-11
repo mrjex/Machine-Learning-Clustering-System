@@ -6,10 +6,10 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
 
-## 📑 Table of Contents
+## Table of Contents
 
 - [Machine Learning Clustering System](#machine-learning-clustering-system)
-  - [📑 Table of Contents](#-table-of-contents)
+  - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [Key Features](#key-features)
   - [System Architecture](#system-architecture)
@@ -19,13 +19,11 @@
     - [Cluster Evaluation](#cluster-evaluation)
     - [Advanced Cluster Analysis](#advanced-cluster-analysis)
   - [Results and Conclusions](#results-and-conclusions)
-  - [Project Structure](#project-structure)
   - [Getting Started](#getting-started)
-  - [💼 Portfolio](#-portfolio)
 
 ## Overview
 
-This project, developed during my exchange semester in Italy (October 2024 - January 2025), demonstrates the application of advanced machine learning techniques for customer segmentation. The system analyzes a complex dataset comprising 2,240 customer profiles across 29 dimensions, employing sophisticated clustering algorithms to uncover meaningful patterns and customer segments.
+This project, developed during my exchange semester in Italy (October 2024 - January 2025), demonstrates the application of advanced machine learning techniques for customer segmentation. The system analyzes a complex dataset comprising 2,240 customer profiles across 29 dimensions, with clustering algorithms to uncover meaningful patterns and customer segments.
 
 ## Key Features
 
@@ -116,16 +114,6 @@ Our analysis yielded actionable insights into customer segments:
 
 *Key characteristics of identified customer segments*
 
-## Project Structure
-
-```
-project/
-│
-├── code.ipynb          # Main Jupyter notebook with analysis
-├── docs/
-│   └── report.pdf      # Detailed methodology and findings
-└── readme-material/    # Visualization assets
-```
 
 ## Getting Started
 
@@ -137,15 +125,3 @@ For detailed implementation insights, refer to:
 - [Code Documentation](code_part_1.ipynb)
 - [Full Analysis Report](/docs/report.pdf)
 
-## 💼 Portfolio
-
-Here are some of my other data science and machine learning projects:
-
-- [Relational Analysis And Visualization](https://github.com/mrjex/Relational-Analysis-and-Visualization): *Machine Learning Prediction Model with Linear Regression*
-- [Realtime Change Data Capture Streaming](https://github.com/mrjex/Realtime-Data-Capture-Streaming): *Real-time Data Pipeline and Visualization*
-- [Global City Streaming](https://github.com/mrjex/Global-City-Streaming): *Multi-dimensional Data Visualization Pipeline*
-- [Tableau Visualization](https://github.com/mrjex/Tableau-Visualization): *SQL Data Model Transformation and Visualization*
-- [Artificial Intelligence Clusters](https://github.com/mrjex/Artificial-Intelligence-Clusters): *Unsupervised Learning for Data Segmentation*
-- [Neural Network Image Classification](https://github.com/mrjex/Neural-Network-Image-Classification): *Deep Learning for Image Recognition*
-- [US Political & Societal Data Visualization](https://github.com/mrjex/US-Political-and-Societal-Data-Visualization): *Python-based Data Visualization*
-- [Artificial Intelligence Classifiers](https://github.com/mrjex/Artificial-Intelligence-Classifiers): *Supervised Learning Models*
