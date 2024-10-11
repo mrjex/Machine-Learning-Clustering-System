@@ -1,10 +1,6 @@
 # Machine Learning Clustering System
 
-> Customer Segmentation using Unsupervised Learning Techniques
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
+> A research project aimed at uncovering customer segmentation patterns
 
 ## Table of Contents
 
@@ -23,7 +19,7 @@
 
 ## Overview
 
-This project, developed during my exchange semester in Italy (October 2024 - January 2025), demonstrates the application of advanced machine learning techniques for customer segmentation. The system analyzes a complex dataset comprising 2,240 customer profiles across 29 dimensions, with clustering algorithms to uncover meaningful patterns and customer segments.
+This project, developed for *Ca' Foscari* in *Venice, Italy* (fall 2024), demonstrates the application of machine learning techniques for customer segmentation. The system analyzes a dataset comprising 2,240 customer profiles across 29 dimensions, with clustering algorithms to uncover meaningful patterns and customer segments.
 
 ## Key Features
 
