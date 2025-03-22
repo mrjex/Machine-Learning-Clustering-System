@@ -1,0 +1,10 @@
+# Intermediate data files
+project/intermediate_data/*.pkl
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints 
