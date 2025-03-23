@@ -1,4 +1,6 @@
-# Data Science & Business Intelligence
+# Machine Learning Clustering System
+
+- **Business Intelligence, Customer Segmentation, Unsupervised Learning of Machine Learning Models**
 
 During my exchange semester in Italy, I attended this course from October 2024 to January 2025. Aspects such as data visualization, big data, supervised learning, unsupervised learning and data preparation were covered in the lectures. At the end of the course, I did a project on my own using clustering methods along with dimensionality reduction and a method for evaluating the quality of the formed clusters. More specifically, the following techniques were implemented:
 
@@ -15,6 +17,13 @@ With the techniques listed above and a dataset of 2240 rows and 29 columns, I fa
 - For more information about my **code**, navigate to `/project/code.ipynb`
 
 - For more information about my approach and the **actionable conclusions** derived from the visualizations, navigate to `project/docs/report.pdf`
+
+
+
+## System
+
+
+
 
 
 ## My Related Experiences
