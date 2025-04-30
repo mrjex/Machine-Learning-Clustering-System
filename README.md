@@ -1,6 +1,6 @@
 # Machine Learning Clustering System 🤖
 
-> Advanced Customer Segmentation using Unsupervised Learning Techniques
+> Customer Segmentation using Unsupervised Learning Techniques
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
@@ -114,29 +114,16 @@ Our analysis yielded actionable insights into customer segments:
 
 ![cluster-characteristics](readme-material/cluster-characteristics.PNG)
 
-*Key characteristics of identified customer segments*
-
-## 📁 Project Structure
-
-```
-project/
-│
-├── code.ipynb          # Main Jupyter notebook with analysis
-├── docs/
-│   └── report.pdf      # Detailed methodology and findings
-└── readme-material/    # Visualization assets
-```
 
 ## 🚀 Getting Started
 
 1. Clone the repository
-2. Install required dependencies
-3. Open `project/code.ipynb` in Jupyter Notebook
-4. Explore the analysis or modify parameters as needed
+2. Open `code_part_1.ipynb` in Jupyter Notebook
+3. Explore the analysis or modify parameters as needed
 
-For detailed implementation insights, refer to:
-- 📘 [Code Documentation](code_part_1.ipynb)
+For further implementation insights, refer to:
 - 📊 [Full Analysis Report](/docs/report.pdf)
+
 
 ## 💼 Portfolio
 
