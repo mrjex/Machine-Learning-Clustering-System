@@ -6,10 +6,10 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
 
-## 📑 Table of Contents
+## Table of Contents
 
 - [Machine Learning Clustering System](#machine-learning-clustering-system)
-  - [📑 Table of Contents](#-table-of-contents)
+  - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [Key Features](#key-features)
   - [System Architecture](#system-architecture)
